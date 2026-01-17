@@ -1,3 +1,4 @@
+Họ tên: Nguyễn Trọng An -23810310263
 # Lab 2: PHP & MySQL (PDO)
 
 Dự án thực hành kết nối cơ sở dữ liệu và quản lý sinh viên cơ bản.
